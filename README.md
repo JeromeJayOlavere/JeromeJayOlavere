@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jerome Jay</h1>
-<h3 align="center">A web developer student from Philippines</h3>
+<h3 align="center">A web developer from Philippines</h3>
 <img align="right" alt="coding" width="320" src="https://media.licdn.com/dms/image/C5112AQH8rsMWwCSeRQ/article-cover_image-shrink_600_2000/0/1523965268855?e=2147483647&v=beta&t=l6Z-j9IX8YwiCHB8gYZxZDPzUhOo0Lp09kRcVCqAFBM">
-
-- 🔭 I’m currently working on [Capstone Project](https://github.com/Chaostatic/ci4_capstone1.0.git)
 
 - 🌱 I’m currently learning **Web Development**
 
